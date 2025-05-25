@@ -14,5 +14,3 @@ main 브랜치에서 새로운 라인 M1 추가
 conflict-test 브랜치에서 새로운 라인 A1 추가
 conflict-test 브랜치에서 새로운 라인 A2 추가
 conflict-test 브랜치에서 새로운 라인 B1 추가
-
-github URL: https://github.com/hardjava/issue_test
