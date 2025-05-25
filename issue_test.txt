@@ -1,3 +1,0 @@
-이슈 연동 실습 중 입니다.
-test2
-closeTest
