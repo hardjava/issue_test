@@ -1,7 +1,11 @@
 스파르타 코딩 클럽 git 강의 최고!
 라인 1
 라인 2
+<<<<<<< HEAD
 라인 3 --> main 브랜치에서 라인 3 수정
+=======
+라인 3 --> conflict-test 브랜치에서 라인 3 수정
+>>>>>>> e6bedee (conflict commit)
 라인 4
 라인 5
 라인 6
@@ -13,3 +17,4 @@ main 브랜치에서 새로운 라인 M1 추가
 
 conflict-test 브랜치에서 새로운 라인 A1 추가
 conflict-test 브랜치에서 새로운 라인 A2 추가
+conflict-test 브랜치에서 새로운 라인 B1 추가
